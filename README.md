@@ -2,7 +2,7 @@
 ## 🌏 Hello World
 
 - 👋 Hi, I’m Rose Wang. @rosewang0303
--  🇹🇼 I'm From Taiwan.
+-  🇹🇼 I'm From Taiwan. 來自台灣
 - 👩‍💻 Full-stack Engineer 全端工程師 / Software Engineer 軟體工程師 
 - 🌱 Vue.js（Nuxt.js）/ PHP（Laravel）/ Node.js（Express）
 - 📫 Contact Me 聯絡我 rosewang0303@gmail.com
